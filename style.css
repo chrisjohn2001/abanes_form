@@ -1,0 +1,57 @@
+.center
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 16px;
+}
+
+
+.container
+{
+    padding: 25px;
+    background-color: aqua;
+    margin: 80px auto;
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button
+{
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=text] , input[type=password]{
+    width: 100%;
+    padding: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.createanaccount
+{
+    text-align: center;
+}
+
+.margin
+{
+    margin: 50px;
+    border: none;
+}
+
+.registrationcontainer
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px;
+    background-color: aqua;
+    margin: 80px auto;
+    width: 30%;
+
+}
+
+
+
